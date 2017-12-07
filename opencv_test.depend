@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1490337454 source:c:\users\pc\desktop\final_project\main.cpp
+	"MainMenu.h"
+
+1490190074 c:\users\pc\desktop\final_project\include\mainmenu.h
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/core/core.hpp"
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<fstream>
+
+1490188785 source:c:\users\pc\desktop\final_project\src\camera.cpp
+	"Camera.h"
+	"MainMenu.h"
+
+1490188647 c:\users\pc\desktop\final_project\include\camera.h
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<string>
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/core/core.hpp"
+	<dir.h>
+
+1490190164 source:c:\users\pc\desktop\final_project\src\dialogbox.cpp
+	"Dialogbox.h"
+	"MainMenu.h"
+
+1490189399 c:\users\pc\desktop\final_project\include\dialogbox.h
+	<iostream>
+	<windows.h>
+
+1490332458 source:c:\users\pc\desktop\final_project\src\editor.cpp
+	"Editor.h"
+	"MainMenu.h"
+
+1490188214 c:\users\pc\desktop\final_project\include\editor.h
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<string>
+	<dialogbox.h>
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/core/core.hpp"
+
+1490337545 source:c:\users\pc\desktop\final_project\src\facerecog.cpp
+	"FaceRecog.h"
+	"MainMenu.h"
+	<ctime>
+
+1490331877 c:\users\pc\desktop\final_project\include\facerecog.h
+	<iostream>
+	<vector>
+	<string>
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+
+1490332298 source:c:\users\pc\desktop\final_project\src\gallery.cpp
+	"Gallery.h"
+	"MainMenu.h"
+
+1490189272 c:\users\pc\desktop\final_project\include\gallery.h
+	<iostream>
+	<windows.h>
+	<dialogbox.h>
+	"opencv2/imgproc/imgproc.hpp"
+
+1490332668 source:c:\users\pc\desktop\final_project\src\mainmenu.cpp
+	"MainMenu.h"
+	"Camera.h"
+	"Editor.h"
+	"Gallery.h"
+	"FaceRecog.h"
+	"Detect.h"
+
+1490330321 c:\users\pc\desktop\final_project\include\detect.h
+	<iostream>
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/core/core.hpp"
+	<string>
+
+1490337257 source:c:\users\pc\desktop\final_project\src\detect.cpp
+	"detect.h"
+	<string>
+	<windows.h>
+
