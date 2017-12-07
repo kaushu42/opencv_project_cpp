@@ -1,0 +1,29 @@
+Welcome to graphics studio!
+There are 5 options available:
+Camera: Launches the camera window. Allows to capture the pictures
+	and stores the pictures to C:\Snaps\
+
+Editor: Launces the editor. You can select multiple filters.
+	Press any key to open the filter menu. You can also 
+	change brightness and contrast. You can also discard
+	the changes and revert the image to original.
+	You can either save the image or cancel.
+
+Face Dectection: Launches the face detection window.
+	Can detect multiple faces. Shows the detected
+	faces enclosed in a rectangle.
+
+Object Tracking: Launches the object tracker.
+	Can track object of any color by setting
+	the value of hue, saturation and value.
+	By default, red objects are detected.
+	It shows the position of object on the screen.
+
+Video Player: Allows to select a video file. Plays the 
+	video file using external player.
+
+Help: Shows this window.
+
+About: Shows information about this program.
+
+Quit: Quits the program.
